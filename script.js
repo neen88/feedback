@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", () => {
             } else {
                 feedbackSection.style.display = 'none';
                 feedbackSection.classList.remove('active');
-                window.location.href = 'https://g.page/r/CQJjdr_xPvsoEAE/review'; // Link alla tua pagina Google My Business
+                window.location.href = 'https://g.page/r/CeKaVCQqeuzPEAE/review'; // Link alla tua pagina Google My Business
                 
                 setTimeout(() => {
                     window.close(); // Chiude la pagina dopo la valutazione a 4 o 5 stelle
